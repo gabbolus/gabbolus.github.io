@@ -11,9 +11,9 @@ title                    : "Gabriele Guaitoli"
 title_separator          : "-"
 name                     : &name "Gabriele Guaitoli"
 description              : &description "Provaprova"
-url                      : https://gguaitoli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gabbolus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gabbolus/gguaitoli.github.io"
+repository               : "gabbolus.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
